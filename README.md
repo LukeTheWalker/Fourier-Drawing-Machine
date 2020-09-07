@@ -21,23 +21,23 @@ Then open the ```Fourier_Drawing_Machine.pde``` and hit the run button.
 Here are some examples
 
 <p>
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/ThanosEdges.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.gif width="300" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.png width="2500" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/ThanosEdges.png width="250" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.gif width="250" /> 
 </p>
 
 
 <p>
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLera.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLeraEdges.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLera.gif width="300" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLera.png width="250" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLeraEdges.png width="250" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/BoggioLeraLogo/BoggioLera.gif width="250" /> 
 </p>
 
 
 <p>
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCode.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCodeEdges.png width="300" /> 
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCode.gif width="300" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCode.png width="250" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCodeEdges.png width="250" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/HourOfCodeLogo/HourOfCode.gif width="250" /> 
 </p>
 
 ## License
