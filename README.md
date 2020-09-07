@@ -21,7 +21,7 @@ Then open the ```Fourier_Drawing_Machine.pde``` and hit the run button.
 Here are some examples
 
 <p>
-  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.png width="2500" /> 
+  <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.png width="250" /> 
   <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/ThanosEdges.png width="250" /> 
   <img src= https://github.com/LukeTheWalker/Fourier-Drawing-Machine/blob/master/examples/Thanos/Thanos.gif width="250" /> 
 </p>
