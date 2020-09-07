@@ -16,6 +16,8 @@ Put the image of the edge inside  ```/data/``` and rename it  ```input.png```
 
 Then open the ```Fourier_Drawing_Machine.pde``` and hit the run button.
 
+A serie of images will be created in the ```output``` folder, named ```gif-XXXXX.png``` where ```XXXXX``` numerically increase from 00000 to the last frame number
+
 ## Examples
 
 Here are some examples
